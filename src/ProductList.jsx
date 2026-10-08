@@ -10,15 +10,15 @@ function ProductList() {
     {
       category: "Aromatic Plants",
       plants: [
-        { name: "Lavender", image: "https://images.unsplash.com/photo-1595841696677-6489ffa3e56c?w=400", description: "Calming scent", cost: 15 },
-        { name: "Mint", image: "https://images.unsplash.com/photo-1628003195200-2c7001402283?w=400", description: "Refreshing aroma", cost: 12 }
+        { name: "Lavender", image: "https://cdn.pixabay.com/photo/2017/08/07/22/35/lavender-2608472_1280.jpg", description: "Calming scent", cost: 15 },
+        { name: "Mint", image: "https://cdn.pixabay.com/photo/2016/01/02/02/03/peppermint-1117565_1280.jpg", description: "Refreshing aroma", cost: 12 }
       ]
     },
     {
       category: "Medicinal Plants",
       plants: [
-        { name: "Aloe Vera", image: "https://images.unsplash.com/photo-1596547609652-9fc5d8d4249a?w=400", description: "Healing properties", cost: 14 },
-        { name: "Tulsi", image: "https://images.unsplash.com/photo-1608210344498-75c6d31bb947?w=400", description: "Immunity booster", cost: 10 }
+        { name: "Aloe Vera", image: "https://cdn.pixabay.com/photo/2019/08/13/10/05/aloe-vera-4403061_1280.jpg", description: "Healing properties", cost: 14 },
+        { name: "Tulsi", image: "https://cdn.pixabay.com/photo/2021/04/04/16/06/tulsi-6147986_1280.jpg", description: "Immunity booster", cost: 10 }
       ]
     }
   ];
